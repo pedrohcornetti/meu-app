@@ -1,0 +1,66 @@
+.contador {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1, h2 {
+    margin: 0;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .button-add {
+    background-color: #28a745; 
+    color: white;
+  }
+  
+  .button-add:hover {
+    background-color: #218838; 
+  }
+  
+  .button-remove:hover {
+    background-color: #dc3545; 
+    color: white;
+  }
+  
+  .button-remove:hover {
+    background-color: #c82333; 
+  }
+  
+  
+  button:hover {
+    background-color: #ddd;
+  }
+  
+  .resetar {
+    background-color: #f0ad4e;
+    color: white;
+    margin: 10px;
+  }
+  
+  .grupo {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  
+  .pessoa {
+    text-align: center;
+  }
+  
+  .pessoa img {
+    display: block;
+    width: 300px;
+    margin: 0 auto 10px;
+    border-radius: 50%;
+  }
+  
+  
+  
